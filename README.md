@@ -23,8 +23,8 @@ End the program.
 
  ## Program:
  ~~~
- Developed by: Anusha R
- Register Number:212221230006
+ Developed by: A K MOHAN RAJ 
+ Register Number:212221230064
  ~~~
  ~~~
  using System;
